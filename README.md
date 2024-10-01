@@ -1,2 +1,2 @@
-# Finetuning_Whisper_for_Arabic_Transcription_Converting_to_CTranslate2_for_Fast_Inference
-Finetuning_Whisper_for_Arabic_Transcription_Converting_to_CTranslate2_for_Fast_Inference
+# Finetuning Whisper for Arabic Transcription Converting to CTranslate2 for Fast Inference
+Finetuning Whisper for Arabic Transcription Converting to CTranslate2 for Fast Inference
