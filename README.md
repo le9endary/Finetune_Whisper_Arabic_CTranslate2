@@ -27,6 +27,9 @@ The fine-tuned Whisper model was uploaded to the HuggingFace Hub for facilitatin
 ## Furthur Results improvment 
 After fine tuning we observed better results and WER, however to further increase accuracy we used LLM layer as last step. The LLM was given prompt to correct grammer or words in Arabic dialect for better transcription. Since, the end goal was to do AI analytics on the transcription thats why correcting words using LLM layers was important.
 
+## Analytics
+![](./img/a1.png)
+
 
 ## Conclusion
 Through fine-tuning, precision optimization, and using CTranslate2, the Whisper model was effectively tailored to transcribe Arabic speech accurately for the Omani dialect. The final optimized model was hosted on AWS EC2 instance to empowers Omantel’s customer service with enhanced localized speech transcription capabilities and AI analytics.
