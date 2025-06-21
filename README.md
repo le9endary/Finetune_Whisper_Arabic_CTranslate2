@@ -1,10 +1,10 @@
 # Finetuning Whisper for Arabic Transcription Converting to CTranslate2 for Fast Inference
 
 ## Project Overview
-The project was to fine-tune automatic speech recognition (ASR) model, specifically targeting the Arabic Omani dialect. The objective was to enhance Whisper model performance for Omantel's customer service calls by ensuring highly accurate localized speech transcription through customized fine-tuning and fast inference on large call data. The end goal was to get AI analytics from  customer calls.
+The project was to fine-tune automatic speech recognition (ASR) model, specifically targeting the Arabic Omani dialect. The objective was to enhance Whisper model performance for [Omantel's](https://www.omantel.om/About%20us/) customer service calls by ensuring highly accurate localized speech transcription through customized fine-tuning and fast inference on large call data. The end goal was to get AI analytics from  customer calls.
 
 ## Dataset
-For Fine-tuning I have used Omantel customer service data of Omani accent. I have also added open source data from Arabic speech org to increase the dataset. Other open source dataset can be used is Mozilla's Common Voice, which is used in this repo guide as our data was confidential.
+For Fine-tuning I have used Omantel customer service data of Omani accent. I have also added open source data from [Arabic Speech Organization](https://arabicspeech.org/) to increase the dataset. Other open source dataset can be used is Mozilla's Common Voice, which is used in this repo guide as our data was confidential.
 
 ## Whisper Model and Fine-tuning
 Whisper is an ASR model for multilingual support. Fine-tuning specifically targeted Arabic language patterns, focusing on nuances and phonetics unique to the Omani dialect, improving localized transcription accuracy.
